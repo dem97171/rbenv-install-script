@@ -12,3 +12,6 @@ exec $SHELL -l
 
 # confirm rbenv
 rbenv --version
+
+# install ruby-build
+git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
